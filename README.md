@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashvatth Joshi
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Node.js
-- 📫 LinkedIn: linkedin.com/in/ashvatth-joshi
+- 📫 <a href="https://www.linkedin.com/in/ashvatth-joshi/">LinkedIn </a>
 - 📌 About Me: I am a devoted and energetic student with a strong passion for Python programming and web development. As I pursue my education, my goal is to become a Full Stack Developer, harnessing a unique blend of technical proficiency and creative problem-solving skills. I bring a unique combination of technical skills and innovative problem-solving capabilities as I work towards becoming a Full Stack Developer.
