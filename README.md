@@ -10,5 +10,7 @@
 
 # <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHkyajZ5YTM0bmxpbzF4N2w3cnA0Z2wxNm15c3M4aml1c242ZmRkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="20"> GitHub Stats
 
-![PersuasivePost's Stats](https://github-readme-stats.vercel.app/api?username=PersuasivePost&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![PersuasivePost's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PersuasivePost&theme=dracula&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PersuasivePost&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PersuasivePost&theme=dracula&hide_border=true" width="48%" />
+</div>
