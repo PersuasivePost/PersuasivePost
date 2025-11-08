@@ -18,4 +18,13 @@
 
 ### Weekly Stats:
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript          13 hrs 56 mins  ████████████░░░░░░░░░░░░░   47.91 %
+Dart                8 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.72 %
+TypeScript          2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+Markdown            1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Bash                58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+```
+
 <!--END_SECTION:waka-->
