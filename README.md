@@ -20,8 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text       7 mins          ████████████████▒░░░░░░░░   65.28 %
-Solidity   4 mins          ████████▓░░░░░░░░░░░░░░░░   34.72 %
+Solidity   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
