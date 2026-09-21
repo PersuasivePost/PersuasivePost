@@ -49,8 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   7 mins                ████████████████████████░   95.49 %
-JSON     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
